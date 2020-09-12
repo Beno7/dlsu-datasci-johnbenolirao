@@ -1,0 +1,83 @@
+REGIONS,PROVINCES
+REGION 1,Ilocos Norte
+REGION 1,Ilocos Sur
+REGION 1,La Union
+REGION 1,Pangasinan
+REGION 2,Batanes
+REGION 2,Cagayan
+REGION 2,Isabela
+REGION 2,Nueva Vizcaya
+REGION 2,Quirino
+REGION 3,Aurora
+REGION 3,Bataan
+REGION 3,Bulacan
+REGION 3,Nueva Ecija
+REGION 3,Pampanga
+REGION 3,Tarlac
+REGION 3,Zambales
+REGION 4A,Batangas
+REGION 4A,Cavite
+REGION 4A,Laguna
+REGION 4A,Quezon
+REGION 4A,Rizal
+REGION 4B,Occidental Mindoro
+REGION 4B,Oriental Mindoro
+REGION 4B,Marinduque
+REGION 4B,Romblon
+REGION 4B,Palawan
+REGION 5,Albay
+REGION 5,Camarines Norte
+REGION 5,Camarines Sur
+REGION 5,Sorsogon
+REGION 5,Catanduanes
+REGION 5,Masbate
+REGION 6,Aklan
+REGION 6,Antique
+REGION 6,Capiz
+REGION 6,Guimaras
+REGION 6,Iloilo
+REGION 6,Negros Occidental
+REGION 7,Bohol
+REGION 7,Cebu
+REGION 7,Negros Oriental
+REGION 7,Siquijor
+REGION 8,Biliran
+REGION 8,Leyte
+REGION 8,Northern Samar
+REGION 8,Samar
+REGION 8,Eastern Samar
+REGION 8,Southern Leyte
+REGION 9,Zamboanga del Norte
+REGION 9,Zamboanga del Sur
+REGION 9,Zamboanga Sibugay
+REGION 10,Bukidnon
+REGION 10,Camiguin
+REGION 10,Misamis Occidental
+REGION 10,Misamis Oriental
+REGION 10,Lanao del Norte
+REGION 11,Compostela Valley
+REGION 11,Davao del Norte
+REGION 11,Davao del Sur
+REGION 11,Davao Oriental
+REGION 11,Davao Occidental
+REGION 12,South Cotabato
+REGION 12,North Cotabato
+REGION 12,Sarangani
+REGION 12,Sultan Kudarat
+REGION 13,Agusan del Norte
+REGION 13,Agusan del Sur
+REGION 13,Dinagat Islands
+REGION 13,Surigao del Norte
+REGION 13,Surigao del Sur
+REGION 14,Abra
+REGION 14,Apayao
+REGION 14,Benguet
+REGION 14,Ifugao
+REGION 14,Kalinga
+REGION 14,Mountain Province
+REGION 15,Basilan
+REGION 15,Lanao del Sur
+REGION 15,Maguindanao
+REGION 15,Sulu
+REGION 15,Tawi-tawi
+NCR,metropolitan manila
